@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RaihanAnnaji
+- 👀 I’m interested in AI, Fullstack Dev and Data Analysis 
+- 🌱 I’m currently learning about Backend Development
+- 📫 email : raihanannaji1990@gmail.com
+- 😄 Pronouns: he/him
